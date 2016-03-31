@@ -9,7 +9,7 @@ namespace MSP_TASK1_Azure
 {
     public class EmployeeContext : DbContext
     {
-        public EmployeeContext() : base("name = EmployeeDbConnectionString")
+        public EmployeeContext() : base("name=EmployeeDbConnectionString")
         {
 
         }
