@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EmployeeDbConnectionString-Web.config Connection String" description="EmployeeDbConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:asolot.database.windows.net,1433;Database=MSP_Task1;User ID=asolot@asolot;Password=123Babalabordei;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\facultate\\Microsoft\ Student\ Partners\\Mentoring\ Radu\\Task\ 1\ -\ Azure\\MSP-TASK1-Azure\\MSP-TASK1-Azure\\Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmployeeDbConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

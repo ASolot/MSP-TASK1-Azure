@@ -63,3 +63,5 @@ E:\facultate\Microsoft Student Partners\Mentoring Radu\Task 1 - Azure\MSP-TASK1-
 E:\facultate\Microsoft Student Partners\Mentoring Radu\Task 1 - Azure\MSP-TASK1-Azure\MSP-TASK1-Azure\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
 E:\facultate\Microsoft Student Partners\Mentoring Radu\Task 1 - Azure\MSP-TASK1-Azure\MSP-TASK1-Azure\Web\obj\Debug\Web.dll
 E:\facultate\Microsoft Student Partners\Mentoring Radu\Task 1 - Azure\MSP-TASK1-Azure\MSP-TASK1-Azure\Web\obj\Debug\Web.pdb
+E:\facultate\Microsoft Student Partners\Mentoring Radu\Task 1 - Azure\MSP-TASK1-Azure\MSP-TASK1-Azure\Web\bin\System.Web.Http.Owin.dll
+E:\facultate\Microsoft Student Partners\Mentoring Radu\Task 1 - Azure\MSP-TASK1-Azure\MSP-TASK1-Azure\Web\bin\System.Web.Http.Owin.xml
